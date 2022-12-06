@@ -6,11 +6,11 @@
 ## Как запустить:
 >  1. Создаем клон репозитория
 ```python
-git clone https://github.com/alisher1989/parse_app.git
+https://github.com/Kochkonbaev/Parsing.git
 ```
 >  2. Переходим на папку 
 ```python
-git clone https://github.com/alisher1989/parse_app.git
+cd/Parsing
 ```
 >  3. Создаем виртуальное окружение
 ```python
