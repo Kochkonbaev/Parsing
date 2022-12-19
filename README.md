@@ -10,6 +10,7 @@ https://github.com/Kochkonbaev/Parsing.git
 ```
 >  2. Переходим на папку 
 ```python
+mkdir Parsing
 cd/Parsing
 ```
 >  3. Создаем виртуальное окружение
